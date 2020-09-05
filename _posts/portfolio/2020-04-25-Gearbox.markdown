@@ -11,5 +11,4 @@ In a team of 4, we designed a gearbox for a glass fiber recycling system to meet
  The gearbox translates a maximum input power of 65 HP at 12000 rpm to two output shafts: the first powers a grinder and sieve shaker which together require 60 HP at 10500 rpm, and the second powers a ventilation fan with 5 HP at 8000 rpm.
  The gearbox consists of one input shaft and two output shafts.
 
-![Image of Gearbox](https://raw.githubusercontent.com/benjshao/benjshao.github.io/master/assets/img/gearbox.png)
-<img src="https://raw.githubusercontent.com/benjshao/benjshao.github.io/master/assets/img/gearbox.png"  width="183" height="191.25">
+<img src="https://raw.githubusercontent.com/benjshao/benjshao.github.io/master/assets/img/gearbox.png"  width="244" height="255">
