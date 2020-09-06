@@ -12,3 +12,4 @@ In a team of 4, we designed a gearbox for a glass fiber recycling system to meet
  The gearbox consists of one input shaft and two output shafts.
 
 <img src="https://raw.githubusercontent.com/benjshao/benjshao.github.io/master/assets/img/gearbox.png"  width="244" height="255">
+{% include image.html url="https://raw.githubusercontent.com/benjshao/benjshao.github.io/master/assets/img/gearbox.png" description="Figure 1. CAD Model of Gearbox" %}
