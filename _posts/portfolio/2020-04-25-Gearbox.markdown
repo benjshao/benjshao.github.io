@@ -11,11 +11,13 @@ In a team of 4, we designed a gearbox for a glass fiber recycling system to meet
  The gearbox translates a maximum input power of 65 HP at 12000 rpm to two output shafts: the first powers a grinder and sieve shaker which together require 60 HP at 10500 rpm, and the second powers a ventilation fan with 5 HP at 8000 rpm.
  The gearbox consists of one input shaft and two output shafts.
 
+<p>
 <img src="https://raw.githubusercontent.com/benjshao/benjshao.github.io/master/assets/img/gearbox.png"  width="244" height="255" align="left"> <img src="https://raw.githubusercontent.com/benjshao/benjshao.github.io/master/assets/img/gearboxlayout.png" width="366" height="231" align="right">
+</p>
 
-<p>The goal of this design is to minimize the weight and size of the gearbox, while achieving a high gearbox efficiency, which is the ratio of its total safety factor to the overall size of the gearbox. This includes selecting suitable materials for the shafts, gears, and keys which complement the layout of the box, as well selecting appropriate dimensions of all components.
+The goal of this design is to minimize the weight and size of the gearbox, while achieving a high gearbox efficiency, which is the ratio of its total safety factor to the overall size of the gearbox. This includes selecting suitable materials for the shafts, gears, and keys which complement the layout of the box, as well selecting appropriate dimensions of all components.
 
-The main approach taken to this design is that to find the best solution, many iterations must be considered quickly and efficiently. Consequently, a MATLAB script was written and configured to quickly take a wide variety of input data such as the gears in an assembly, their shafts, the material of components, and many other options, in order to perform a non-FEA analysis of various loads and safety factors. A sample of the input shaft visualizations is shown below.</p>
+The main approach taken to this design is that to find the best solution, many iterations must be considered quickly and efficiently. Consequently, a MATLAB script was written and configured to quickly take a wide variety of input data such as the gears in an assembly, their shafts, the material of components, and many other options, in order to perform a non-FEA analysis of various loads and safety factors. A sample of the input shaft visualizations is shown below.
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/benjshao/benjshao.github.io/master/assets/img/shaft.png" width="449" height="328">
