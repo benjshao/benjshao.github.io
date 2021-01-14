@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Design of a Gearbox for a Glass Fiber Recycling System"
-date:   2020-04-25 18:11:16
+date:   
 categories: project
 featured: true
 featured_image: "../../assets/img/project.png"
