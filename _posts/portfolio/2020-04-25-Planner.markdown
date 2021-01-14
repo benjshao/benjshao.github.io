@@ -7,7 +7,7 @@ featured: true
 featured_image: "../../assets/img/project.png"
 tags: design
 ---
-The personal planner is a web application built using Django. It provides the user with an interactive personal assistant experience, and displays the user inputs in a clear and minimal layout on the dashboard page. The web application is deployed on Heroku and can be accessed at <a href="https://djangoplannerapp.herokuapp.com/">https://djangoplannerapp.herokuapp.com/</a>. The source code can be viewed on my <a href="//https://github.com/benjshao/Personal-Planner">GitHub page</a>.
+The personal planner is a web application built using Django. It provides the user with an interactive personal assistant experience, and displays the user inputs in a clear and minimal layout on the dashboard page. The web application is deployed on Heroku and can be accessed at <a href="https://djangoplannerapp.herokuapp.com/">https://djangoplannerapp.herokuapp.com/</a>. The source code can be viewed on my <a style="color:blue;" href="//https://github.com/benjshao/Personal-Planner">GitHub page</a>.
 
 The user creates an item on the home page, inputting a category, item name, and due date.
 
