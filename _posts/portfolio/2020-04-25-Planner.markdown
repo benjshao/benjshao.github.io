@@ -7,28 +7,28 @@ featured: true
 featured_image: "../../assets/img/project.png"
 tags: design
 ---
-The personal planner is a web application built using Django. It provides the user with an interactive personal assistant experience, and displays the user inputs in a clear and minimal layout on the dashboard page. The web application is deployed on Heroku and can be accessed at https://djangoplannerapp.herokuapp.com/.
+The personal planner is a web application built using Django. It provides the user with an interactive personal assistant experience, and displays the user inputs in a clear and minimal layout on the dashboard page. The web application is deployed on Heroku and can be accessed at <a href="https://djangoplannerapp.herokuapp.com/">https://djangoplannerapp.herokuapp.com/</a>. The source code can be viewed on my <a href="//https://github.com/benjshao/Personal-Planner">GitHub page</a>.
 
 The user creates an item on the home page, inputting a category, item name, and due date.
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/benjshao/Personal-Planner/main/Screenshots/Home.png"  width="480" height="234.5">
+  <img src="https://raw.githubusercontent.com/benjshao/Personal-Planner/main/Screenshots/Home.png"  width="640" height="312.67">
 </p>
 
 All of the items are displayed on the dashboard page, and are organized in a way such that the user can easily visualize his or her entire schedule. The items are divided by category, and are sorted by due date.
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/benjshao/Personal-Planner/main/Screenshots/Dashboard.png" width="474.5" height="234.5">
+  <img src="https://raw.githubusercontent.com/benjshao/Personal-Planner/main/Screenshots/Dashboard.png" width="632.67" height="312.67">
 </p>
 
 Clicking on the item title leads to a page with a delete button, where the user can remove the item from the dashboard.
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/benjshao/Personal-Planner/main/Screenshots/Details.png" width="480" height="234.5">
+  <img src="https://raw.githubusercontent.com/benjshao/Personal-Planner/main/Screenshots/Details.png" width="640" height="312.67">
 </p>
 
 The about page shows a short description of the web application.
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/benjshao/Personal-Planner/main/Screenshots/About.png" width="480" height="234.5">
+  <img src="https://raw.githubusercontent.com/benjshao/Personal-Planner/main/Screenshots/About.png" width="640" height="312.67">
 </p>
